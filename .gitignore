@@ -1,0 +1,11 @@
+tags
+*.DS_Store
+.AppleDouble
+.LSOverride
+config/nvim/pack/*
+config/nvim/backups/*
+config/nvim/view/*
+config/nvim/.netrwhist
+config/nvim/spell/en.utf-8.spl
+config/nvim/spell/en.utf-8.sug
+config/nvim/plugin/packer_compiled.lua

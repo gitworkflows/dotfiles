@@ -1,0 +1,2 @@
+-- Mappings
+--g.map(require("gitworkflows.mappings").markdown, { silent = true }, vim.api.nvim_get_current_buf())

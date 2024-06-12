@@ -57,3 +57,4 @@
 
   - description: Accept Copilot terms
     command: $HOME/bin/nvim --headless +"sleep 5" +"Copilot setup" +qa
+
