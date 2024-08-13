@@ -1,4 +1,0 @@
-#!/bin/bash
-
-python3 /Users/gitworkflows/Dev/fortify-language-server/fortify-language-server.py
-#--log-file /tmp/fls.log -vvvv
